@@ -7,4 +7,4 @@ try:
         print(f"line{line+1}: {l}")
     fh.close()
 except FileNotFoundError:
-    Raise Error(": The file 'sample.txt' does not exist")
+    print("Error: The file 'sample.txt' does not exist")
