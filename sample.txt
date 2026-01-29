@@ -1,0 +1,3 @@
+Hi my name is Dreamer
+I am learning python
+This sample is for Task1 which opens and reads a file
